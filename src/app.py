@@ -10,7 +10,8 @@ swagger = Swagger(app)
 
 @app.route('/')
 def home():
-    return 'Hello, World!'
+    return '''Welcome to the BC Childcare API Application, please refer to the 
+    <a href="https://github.com/caesarw0/BC-ChildCare-API">GitHub Page</a> for more info'''
 
 app.register_blueprint(resources_bp, url_prefix='/api')
 app.register_blueprint(childcare_retrieval_bp, url_prefix='/api')
