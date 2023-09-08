@@ -1,5 +1,6 @@
 from flask import Blueprint, Flask, request, jsonify
 from utils.data_loading import load_data_from_csv
+from utils.str_processing import parse_str_to_list
 from flasgger import swag_from
 
 # data loading
@@ -98,3 +99,112 @@ def get_available_cities():
     """
     available_cities = df['CITY'].unique().tolist()
     return {"available_cities": available_cities}
+
+@childcare_retrieval_bp.route('/childcare/query')
+def query_childcare_data():
+    """
+    Query Childcare Data
+    ---
+    tags:
+      - Childcare Query
+    summary: Query childcare data with various filtering options
+    parameters:
+      - in: query
+        name: select
+        schema:
+          type: string
+        description: Fields to select in the response
+      - in: query
+        name: where
+        schema:
+          type: string
+        description: Filtering conditions (e.g., location=Vancouver,age_group=toddler)
+      - in: query
+        name: order_by
+        schema:
+          type: string
+        description: Field to order results by
+      - in: query
+        name: order_direction
+        schema:
+          type: string
+        description: Direction of ordering (e.g. 'ASC', 'DESC')
+      - in: query
+        name: limit
+        schema:
+          type: integer
+        description: Limit number of results
+      - in: query
+        name: offset
+        schema:
+          type: integer
+        description: Offset for results
+    responses:
+      200:
+        description: Query results
+    """
+    # Extract query parameters
+    select_fields = request.args.get('select')
+    where_conditions = request.args.get('where')
+    order_by_field = request.args.get('order_by')
+    order_direction = request.args.get('order_direction')
+    limit = request.args.get('limit', type=int)
+    offset = request.args.get('offset', type=int)
+
+    
+
+    # Apply filtering based on query parameters
+    filtered_data = df # copy df
+    # 1. WHERE clause
+    if where_conditions:
+        for condition in where_conditions.split(','):
+            field, value = condition.split('=')
+            if filtered_data[field].dtype == 'int64':
+              filtered_data = filtered_data[filtered_data[field] == int(value)]
+            if filtered_data[field].dtype == 'float64':
+              filtered_data = filtered_data[filtered_data[field] == float(value)]
+            if filtered_data[field].dtype == 'object':
+              filtered_data = filtered_data[filtered_data[field] == (value)]
+    
+    # 2. SELECT clause
+    if select_fields:
+        select_fields = parse_str_to_list(select_fields)
+        if all(item in filtered_data.columns for item in select_fields):
+            filtered_data = filtered_data[select_fields]
+        else:
+            return jsonify({'message': 'Invalid selection: some fields specified are not in the df'}), 400
+    # 3. ORDER BY clause
+    if order_by_field:
+        order_by_field = parse_str_to_list(order_by_field)
+        if order_direction:
+            order_direction = parse_str_to_list(order_direction)
+        else:
+            # Default to ascending if not provided
+            order_direction = ['ASC'] * len(order_by_field)
+        if all(item in filtered_data.columns for item in order_by_field):
+          if len(order_by_field) != len(order_direction):
+              return jsonify({'message': 'Number of order_by fields must match number of order_direction fields'}), 400
+          
+          try:
+              for field, direction in zip(order_by_field, order_direction):                  
+                  if direction.upper() == 'DESC':
+                      filtered_data = filtered_data.sort_values(by=field, ascending=False)
+                  else:
+                      filtered_data = filtered_data.sort_values(by=field, ascending=True)
+          except KeyError:
+              return jsonify({'message': 'Invalid field specified for ordering'}), 400
+        else:
+            return jsonify({'message': 'Invalid Order: some fields specified are not in the Select Clause'}), 400
+    # Apply limits and offsets
+    if limit:
+        if limit <= 0:
+          return jsonify({'message': 'Invalid limit value: limit is less than or equal to 0'}), 400
+        filtered_data = filtered_data[:limit]
+    if offset:
+        if limit and offset > limit:
+            return jsonify({'message': 'Invalid offset: offset is larger than limit'}), 400
+        if offset < 0 or offset > filtered_data.shape[0]:
+          return jsonify({'message': 'Invalid offset value: limit is less than 0 or larger than length'}), 400
+        filtered_data = filtered_data[offset:]
+
+    return jsonify(filtered_data.to_dict(orient='records'))
