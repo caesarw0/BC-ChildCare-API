@@ -1,5 +1,5 @@
 pandas
 numpy
-
+gunicorn==19.7.1
 flask == 2.2.3
 flasgger == 0.9.7.1
