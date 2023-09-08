@@ -1,0 +1,5 @@
+pandas
+numpy
+
+flask == 2.2.3
+flasgger == 0.9.7.1
