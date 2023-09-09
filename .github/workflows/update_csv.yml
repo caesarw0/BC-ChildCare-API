@@ -38,7 +38,7 @@ jobs:
             echo "CSV files are different."
           else
             echo "CSV files are the same. Skipping commit."
-            exit 0
+            exit 1
           fi
 
       - name: Overwrite CSV
