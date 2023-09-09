@@ -50,6 +50,9 @@ jobs:
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
           timestamp=$(date +'%Y%m%d%H%M%S')
           branch_name="update-csv-$timestamp"
 
