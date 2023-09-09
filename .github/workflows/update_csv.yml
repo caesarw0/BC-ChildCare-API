@@ -34,13 +34,14 @@ jobs:
       - name: Overwrite CSV
         if: steps.check-csv.outcome == 'success'
         run: |
-          mv data/new-data.csv data/data.csv
-        # Replace 'data/data.csv' with the correct path and filename of your CSV file.
+          mv data/new-data.csv data/childcare_locations.csv
+        # Replace 'data/childcare_locations.csv' with the correct path and filename of your CSV file.
 
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git add data/childcare_locations.csv
           git commit -am "Update CSV file"
           git push
