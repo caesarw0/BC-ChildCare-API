@@ -30,18 +30,28 @@ jobs:
             echo "CSV file is empty."
             exit 1
           fi
+          
+      - name: Check for Differences
+        id: check-differences
+        run: |
+          if ! diff -q data/new-data.csv data/childcare_locations.csv; then
+            echo "CSV files are different."
+          else
+            echo "CSV files are the same. Skipping commit."
+            exit 0
+          fi
 
       - name: Overwrite CSV
-        if: steps.check-csv.outcome == 'success'
+        if: steps.check-csv.outcome == 'success' && steps.check-differences.outcome == 'success'
         run: |
           mv data/new-data.csv data/childcare_locations.csv
-        # Replace 'data/childcare_locations.csv' with the correct path and filename of your CSV file.
 
       - name: Commit and Push Changes
-        if: steps.check-csv.outcome == 'success'
+        if: steps.check-csv.outcome == 'success' && steps.check-differences.outcome == 'success'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add data/childcare_locations.csv
           git commit -am "Update CSV file"
           git push
+          
