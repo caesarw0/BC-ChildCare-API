@@ -28,7 +28,7 @@ jobs:
             echo "CSV file is not empty."
           else
             echo "CSV file is empty."
-            exit 1
+            exit 78
           fi
           
       - name: Check for Differences
@@ -38,7 +38,7 @@ jobs:
             echo "CSV files are different."
           else
             echo "CSV files are the same. Skipping commit."
-            exit 1
+            exit 78
           fi
 
       - name: Overwrite CSV
