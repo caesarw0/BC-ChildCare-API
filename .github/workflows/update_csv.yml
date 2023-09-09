@@ -28,7 +28,7 @@ jobs:
             echo "CSV file is not empty."
           else
             echo "CSV file is empty."
-            exit 1
+            exit 78
           fi
           
       - name: Check for Differences
@@ -36,18 +36,19 @@ jobs:
         run: |
           if ! diff -q data/new-data.csv data/childcare_locations.csv; then
             echo "CSV files are different."
+            echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
           else
             echo "CSV files are the same. Skipping commit."
-            exit 0
+            echo "DIFFERENT_CSV=false" >> $GITHUB_ENV
           fi
 
       - name: Overwrite CSV
-        if: steps.check-csv.outcome == 'success' && steps.check-differences.outcome == 'success'
+        if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
         run: |
           mv data/new-data.csv data/childcare_locations.csv
 
       - name: Commit and Push Changes
-        if: steps.check-csv.outcome == 'success' && steps.check-differences.outcome == 'success'
+        if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
