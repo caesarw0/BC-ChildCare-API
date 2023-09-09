@@ -1,8 +1,8 @@
 name: Daily CSV Update
 
-on: push
-#  schedule:
-#    - cron: '0 8 * * *' # Runs every day at midnight (UTC)
+on:
+  schedule:
+    - cron: '*/1 * * * *' # Runs every day at midnight (UTC)
 
 jobs:
   update-csv:
