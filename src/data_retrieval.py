@@ -2,26 +2,60 @@ from flask import Blueprint, Flask, request, jsonify
 from utils.data_loading import load_data_from_csv
 from utils.str_processing import parse_str_to_list
 from flasgger import swag_from
+import pandas as pd
 
 # data loading
 df = load_data_from_csv()
+
+# Keep all rows where is_duplicate is 'N'
+filtered_df = df[df['IS_DUPLICATE'] == 'N']
+
+# For rows with is_duplicate 'Y', keep the first occurrence within each group of name and address
+filtered_df = pd.concat([filtered_df, df[df['IS_DUPLICATE'] == 'Y'].drop_duplicates(subset=['NAME', 'ADDRESS_1'])])
+
+# Get the dropped df
+dropped_df = df[~df.isin(filtered_df.to_dict(orient='list')).all(axis=1)]
+
+# Sort the DataFrame by 'FAC_PARTY_ID'
+filtered_df.sort_values(by='FAC_PARTY_ID', inplace=True)
+
+# Reset the index
+filtered_df.reset_index(drop=True, inplace=True)
+
+# Assign back to `df`
+df = filtered_df
 
 childcare_retrieval_bp = Blueprint('childcare_retrieval', __name__)
 
 @childcare_retrieval_bp.route('/childcare/')
 def get_all_childcare_centers():
     """
-    Get All Childcare Data within BC
+    Get All Unique Childcare Data within BC
     ---
     tags:
       - Childcare Retrieval
     summary: Retrieve a list of all childcare centers
-    description: This endpoint retrieves a list of all childcare centers in British Columbia.
+    description: This endpoint retrieves a list of all childcare centers in British Columbia. We consider "NAME" "ADDRESS_1" as an unique childcare center.
     responses:
       200:
         description: List of childcare center data
     """
     return jsonify(df.to_dict(orient='records'))
+
+@childcare_retrieval_bp.route('/childcare/dropped')
+def get_dropped_childcare_centers():
+    """
+    Get All Dropped Childcare Data within BC
+    ---
+    tags:
+      - Childcare Retrieval
+    summary: Retrieve a list of dropped childcare centers
+    description: This endpoint retrieves a list of dropped childcare centers in British Columbia. We consider "NAME" "ADDRESS_1" as an unique childcare center.
+    responses:
+      200:
+        description: List of dropped childcare center data
+    """
+    return jsonify(dropped_df.to_dict(orient='records'))
 
 @childcare_retrieval_bp.route('/childcare/<int:center_id>')
 def get_childcare_center(center_id):
