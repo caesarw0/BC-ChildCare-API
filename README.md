@@ -27,7 +27,7 @@ The British Columbia Childcare API provides easy access to essential child care 
 
 All the prerequisites and dependencies (e.g., Python packages) are included in the [requirements.txt](requirements.txt) file.
 
-1. To install the necessary packages for this project, please execute the `pip install -r ../requirements.txt` command in the project main folder.
+1. To install the necessary packages for this project, please execute the `pip install -r requirements.txt` command in the project main folder.
 
 2. Change the current directory to the `src/` folder of your project and run the flask application:
 
