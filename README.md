@@ -127,7 +127,7 @@ The "Childcare Retrieval" category includes a majority of API endpoints for retr
         "VACANCY_SRVC_UNDER36": "N",
         "WEBSITE": "N/A"
       },
-      ...
+      // ... (more data entries omitted for brevity)
     ]
     ```
 
@@ -208,7 +208,7 @@ The "Childcare Retrieval" category includes a majority of API endpoints for retr
         "Victoria",
         "Burnaby",
         "Vancouver",
-        ...
+        // ... (more data entries omitted for brevity)
       ]
     }
     ```
@@ -241,7 +241,7 @@ The "Childcare Query" category allows users to perform query-based childcare dat
         "NAME": "Shannon Day Care",
         "POSTAL_CODE": "V6P 6G5"
       },
-      ...
+      // ... (more data entries omitted for brevity)
     ]
     ```
 
