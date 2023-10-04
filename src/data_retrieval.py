@@ -152,7 +152,7 @@ def query_childcare_data():
         name: where
         schema:
           type: string
-        description: Filtering conditions (e.g., location=Vancouver,age_group=toddler)
+        description: Filtering conditions (e.g., CITY=Vancouver,OP_WEEKDAY_YN=Y)
       - in: query
         name: order_by
         schema:
