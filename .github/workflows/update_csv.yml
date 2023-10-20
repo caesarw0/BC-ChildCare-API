@@ -3,6 +3,7 @@ name: Daily CSV Update
 on:
   schedule:
     - cron: '0 8 * * *' # Runs every day at midnight (UTC)
+  workflow_dispatch:
 
 jobs:
   update-csv:
