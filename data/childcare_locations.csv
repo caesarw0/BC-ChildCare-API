@@ -482,7 +482,7 @@
 481,Licensed Family,Tykes 'N Tots,3851 Grace Cres,,Prince George,V2N 4V9,53.894334,-122.795107,250-563-2496,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/23,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
 482,Licensed Family,Goldilocks Family Day Care,2967 Parent Rd,,Prince George,V2N 5G2,53.860669,-122.777675,250-964-1544,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
 483,Licensed Family,Helping Hands Day Care,477 4Th Ave,,Burns Lake,V0J 1E0,54.231082,-125.750387,250-692-0655,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/07,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
-484,Licensed Family,Sherwood Forest,856 Warren Ave,,Prince George,V2M 3V7,53.917963,-122.787241,250-562-5536,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+484,Licensed Family,Sherwood Forest,856 Warren Ave,,Prince George,V2M 3V7,53.917963,-122.787241,250-562-5536,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/Clients/NHA/NHA_Website.nsf,N,Y,N
 485,Licensed Family,Eeyore's Daycare,106-3308 Underhill Rd,,Prince George,V2N 1W5,53.887224,-122.782122,250-561-0639,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/04/03,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
 486,Licensed Family,Little Angels Day Care,7538 Southridge Ave,,Prince George,V2N 6S4,53.855035,-122.778118,250-964-9275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 487,Licensed Family,Quality Family Day Care,1305 Nanaimo St,,New Westminster,V3M 2G1,49.207347,-122.93358,604-524-1653,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
@@ -714,8 +714,8 @@
 713,Licensed Family,Little Bell Daycare Centre,101-7168 Stride Ave,,Burnaby,V3N 1T7,49.21341,-122.950874,604-721-6666,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/04,http://www.healthspace.ca/fha/childcare,N,Y,N
 714,Licensed Group,Sandcastle Park Children's Centre,7-3060 Chatham St,,Richmond,V7E 6L9,49.126134,-123.191411,604-274-8380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 715,Licensed Group,Nanaimo Innovation Academy,905 Hecate St,,Nanaimo,V9R 4K7,49.15712,-123.939199,250-591-7700,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
-716,Licensed Group,Brightpath St Johns Street,2750 St. Johns St,,Port Moody,V3H 0H4,49.276751,-122.85129,604-492-1415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
-717,Licensed Group,Brightpath St Johns Kids Zone,2740 St. Johns St,,Port Moody,V3H 0H4,49.276752,-122.851503,604-492-1415,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+716,Licensed Group,Brightpath St Johns Street,2750 St. Johns St,,Port Moody,V3H 0H4,49.276751,-122.85129,604-492-1415,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
+717,Licensed Group,Brightpath St Johns Kids Zone,2740 St. Johns St,,Port Moody,V3H 0H4,49.276752,-122.851503,604-492-1415,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
 718,Licensed Group,Khalsa Child Care Centre,26345 62 Ave,,Langley,V4W 1L8,49.115334,-122.49419,604-594-0553,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/24,http://www.healthspace.ca/fha/childcare,N,Y,N
 719,Licensed Group,Connections Kids Club - Tait,10071 Finlayson Dr,,Richmond,V6X 3X4,49.196371,-123.111265,604-271-7600,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/19,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 720,Licensed Family,Little Thinkers Daycare Centre,15023 62 Ave,,Surrey,V3S 5L7,49.115796,-122.805789,778-565-2105,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/01,http://www.healthspace.ca/fha/childcare,N,Y,N
@@ -1030,7 +1030,7 @@
 1029,Licensed Group,Little Cactus Daycare,9311 Kirkmond Cres,,Richmond,V7E 1M7,49.142519,-123.186517,778-882-8317,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/19,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 1030,Licensed Family,Happy Angels Daycare,1090 Ridgewood Dr,,North Vancouver,V7R 1H8,49.339597,-123.103859,778-927-7024,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/11,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 1031,Licensed Family,Frolick Around Daycare,18131 Claytonwood Cres,,Surrey,V3S 7T5,49.121379,-122.720323,778-847-6978,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/03/28,http://www.healthspace.ca/fha/childcare,N,Y,N
-1032,Licensed Family,Mom's Lap Daycare,8813 113 Ave,,Fort St. John,V1J 0E2,56.258082,-120.825784,250-262-2006,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
+1032,Licensed Family,Mom's Lap Daycare,8813 113 Ave,,Fort St. John,V1J 0E2,56.258082,-120.825784,250-262-2006,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/04/12,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
 1033,Licensed Group,Brilliant Kids Montessori Childcare Centre,11706 96Th Ave,,Delta,V4C 3W7,49.177102,-122.898249,604-498-2128,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/29,http://www.healthspace.ca/fha/childcare,N,Y,N
 1034,Licensed Group,Nature Dreams Daycare,426-2440 Old Okanagan Hwy,,Westbank,V4T 1X6,49.844501,-119.622767,778-583-7868,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/21,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 1035,Licensed Group,Growing Hands Childcare Centre,1188 Eighth Ave,,New Westminster,V3M 2R6,49.210486,-122.933527,778-899-1797,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/11,http://www.healthspace.ca/fha/childcare,N,Y,N
@@ -1130,7 +1130,7 @@
 1129,Licensed Family,Jolene's Daycare,2047 Melville Dr,,Sidney,V8L 2N3,48.663581,-123.411039,250-208-0998,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/13,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
 1130,Licensed Family,Blooming Buttercups Childcare & Learning Center,5377 188A St,,Surrey,V3S 7C3,49.099903,-122.700858,604-315-9612,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/17,http://www.healthspace.ca/fha/childcare,N,Y,N
 1131,Licensed Group,Play N Learn Daycare,3839 Thurston St,,Burnaby,V5H 1H9,49.235028,-123.019039,604-617-8355,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/16,http://www.healthspace.ca/fha/childcare,N,Y,N
-1132,Licensed Family,The Storyhouse,B-601 Richards St,,Nelson,V1L 5K4,49.483643,-117.284453,250-354-4401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+1132,Licensed Family,The Storyhouse,B-601 Richards St,,Nelson,V1L 5K4,49.483643,-117.284453,250-354-4401,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 1133,Licensed Family,Little Critters Childcare Centre,7298 141A St,,Surrey,V3W 5L7,49.13551,-122.830073,604-839-6037,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 1134,Licensed Family,Shine Star Family Daycare,3794 Shane Cres,,Prince George,V2N 4N2,53.893147,-122.793425,250-981-7433,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/22,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
 1135,Licensed Group,Kids Club Child Care Centre Ltd.,46129 Princess Ave,,Chilliwack,V2P 2A8,49.17096,-121.948299,604-795-2322,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/25,http://www.healthspace.ca/fha/childcare,N,Y,N
@@ -1185,7 +1185,7 @@
 1184,Licensed Group,Tiny Hoppers Early Learning Centre,160-7951 Alderbridge Way,,Richmond,V6X 2A4,49.177332,-123.138252,604-279-1199,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,https://inspections.vcha.ca/ChildCare/Table,N,Y,Y
 1185,Licensed Group,Tiny Hoppers Early Learning Centre,160-7951 Alderbridge Way,,Richmond,V6X 2A4,49.177332,-123.138252,604-279-1199,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,https://inspections.vcha.ca/ChildCare/Table,N,Y,Y
 1186,Licensed Family,Kiddie College,3496 Princeton Ave,,Coquitlam,V3E 0K2,49.296967,-122.744862,604-475-7006,www.kiddiecollege.ca,,Y,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,Y,Included in fee,Not offered,N,N,N,N,N,Y,Y,N,Y,N,N,2025/04/10,http://www.healthspace.ca/fha/childcare,N,Y,N
-1187,Licensed Family,The Place To Grow,24272 102B Ave,,Maple Ridge,V2W 1Y1,49.188696,-122.55,778-927-4204,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,http://www.healthspace.ca/fha/childcare,N,Y,N
+1187,Licensed Family,The Place To Grow,24272 102B Ave,,Maple Ridge,V2W 1Y1,49.188696,-122.55,778-927-4204,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
 1188,Licensed Family,Skills For Life Child Care,3527 Grenadier Rd,,Victoria,V9C 0M6,48.418971,-123.527667,250-514-4624,www.skillsforlifechildcare.com,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/17,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
 1189,Licensed Family,Mini Me Montessori Child Care,8425 167 St,,Surrey,V4N 4W1,49.155993,-122.75964,236-450-0690,http://www.minimemontessorichildcare.com/,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 1190,Licensed Family,Ishwar Family Child Care,3807 Grace Cres,,Prince George,V2N 4N5,53.892644,-122.795418,250-649-3488,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/09,https://www.healthspace.ca/Clients/NHA/NHA_Website.nsf/CCFL-Frameset,N,Y,N
@@ -1215,7 +1215,7 @@
 1214,Licensed Family,Mother Heart Childcare,12445 188A St,,Pitt Meadows,V3Y 2H5,49.228819,-122.699798,778-998-5508,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/14,http://www.healthspace.ca/fha/childcare,N,Y,N
 1215,Licensed Family,Kid's Garden Family Daycare,15762 92A Ave,,Surrey,V4N 3C2,49.170938,-122.785682,604-716-6473,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 1216,Licensed Family,Inspirefly Child Care Center,4510 Allison Rd,,Lake Country,V4V 2B8,50.087523,-119.373268,604-319-5232,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/01,,N,Y,N
-1217,Licensed Family,Cedar Tree Child Care,5996 Tweedsmuir Cres,,Nanaimo,V9T 5Y7,49.232759,-124.030764,250-667-3337,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/13,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
+1217,Licensed Family,Cedar Tree Child Care,5996 Tweedsmuir Cres,,Nanaimo,V9T 5Y7,49.232759,-124.030764,250-667-3337,,,Y,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,Y,Y,N,N,N,N,2025/04/12,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
 1218,Licensed Family,Sunshine House Family Childcare,1211 Kathleen Dr,,Duncan,V9L 5R7,48.806099,-123.625,778-212-5715,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/07,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
 1219,Licensed Group,Kinderheart Montessori Lakeview,865 Anders Rd,,West Kelowna,V1Z 1V9,49.860205,-119.551393,604-460-8558,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,Y,N,2025/04/03,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 1220,Licensed Group,Les Agneaux De Saute-Mouton,670 Lampson St,,Victoria,V9A 6A4,48.4323,-123.405244,250-220-6015,,,Y,N,N,N,N,N,Y,Y,N,N,N,N,N,N,Y,N,N,Not offered,Not offered,N,N,N,N,Y,Y,Y,N,N,N,N,2025/03/26,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
@@ -1409,7 +1409,7 @@
 1408,Licensed Group,North Star Montessori,1325 Keith Rd E,,North Vancouver,V7J 1J3,49.311694,-123.037102,604-980-1205,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/01,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 1409,Licensed Group,Kids Kingdom Childcare,451 Shuswap St Sw,,Salmon Arm,V1E 4H9,50.696601,-119.28576,604-217-3086,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/21,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 1410,Licensed Family,Little Moments Learning Centre,9308 Aberdeen Rd,,Coldstream,V1B 2K5,50.234989,-119.229501,250-307-9003,,,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,N,Extra fee,Extra fee,N,N,N,N,Y,Y,N,N,N,N,N,2025/03/15,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
-1411,Licensed Family,Mimi's Family Childcare,41553 Brennan Rd,,Squamish,V0N 1T0,49.761509,-123.15696,604-898-6611,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
+1411,Licensed Family,Mimi's Family Childcare,41553 Brennan Rd,,Squamish,V0N 1T0,49.761509,-123.15696,604-898-6611,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 1412,Licensed Group,Beanstalk Daycare The,44458 Freshwater Dr,,Chilliwack,V2R 0A5,49.100986,-121.993575,604-845-1050,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 1413,Licensed Group,Alexandra Neighbourhood House Children's Centre At Pacific H,17148 26 Ave,,Surrey,V3Z 0A4,49.049167,-122.748219,604-535-0015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
 1414,Licensed Group,Kidspace Learning Centres,20084 37A Ave,,Langley,V3A 6K4,49.069886,-122.667062,604-300-7122,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,http://www.healthspace.ca/fha/childcare,N,Y,N
@@ -1535,7 +1535,7 @@
 1534,Licensed Family,Jiji Children's Learning Centre Inc.,1132 Sprice Ave,,Coquitlam,V3J 2P4,49.256815,-122.860156,604-936-6060,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,http://www.healthspace.ca/fha/childcare,N,Y,N
 1535,Licensed Group,Gillybird Nature Academy 4,3703 St. Aidan's St,,Victoria,V8P 2V7,48.4611,-123.329654,250-704-6607,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/07,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
 1536,Licensed Group,Language Arts Early Learning,8695 10Th Ave,,Burnaby,V3N 2S9,49.230986,-122.905383,236-251-6951,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/13,http://www.healthspace.ca/fha/childcare,N,Y,N
-1537,Licensed Group,Fun Zone Childcare,8358 133A St,,Surrey,V3W 9E3,49.154542,-122.852559,778-889-0023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+1537,Licensed Group,Fun Zone Childcare,8358 133A St,,Surrey,V3W 9E3,49.154542,-122.852559,778-889-0023,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
 1538,Licensed Family,Little Steps Childcare Centre,8776 Bellevue Dr,,Chilliwack,V2P 3W7,49.161657,-121.971156,778-317-9445,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,http://www.healthspace.ca/fha/childcare,N,Y,N
 1539,Licensed Group,Kids Kingdom,502 Cedar St,,Sicamous,V0E 2V1,50.829853,-118.980652,604-217-3086,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/17,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 1540,Licensed Group,Golden Star's Early Learning Centre,829 15Th St W,,North Vancouver,V7P 1M5,49.322058,-123.095698,778-384-3784,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,https://inspections.vcha.ca/ChildCare/Table,N,Y,Y
@@ -1972,7 +1972,7 @@
 1971,Licensed Family,Megan's Munchkins,20701 51A Ave,,Langley,V3A 7T3,49.096216,-122.649253,604-534-2289,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/16,,N,Y,N
 1972,Licensed Group,Wonderful Beginnings Early Years,101-5170 Dallas Dr,,Kamloops,V2C 0C7,50.668575,-120.185807,306-471-4567,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/16,,N,Y,N
 1973,Licensed Group,Fraserhood Childcare Centre,4585 Prince Albert St,,Vancouver,V5V 4K3,49.243742,-123.08809,604-724-6818,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/10,,N,Y,N
-1974,Licensed Family,Great Beginnings Daycare,7013 206 St,,Langely,V2Y 1S9,49.129972,-122.652043,778-986-2292,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,,N,Y,N
+1974,Licensed Family,Great Beginnings Daycare,7013 206 St,,Langely,V2Y 1S9,49.129972,-122.652043,778-986-2292,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 1975,Licensed Group,Kidsfirst Early Childhood Centre,27871 113 Ave,,Maple Ridge,V2W 1M9,49.20851,-122.450601,778-919-3558,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/10,,N,Y,N
 1976,Licensed Group,Just B4 Dormick Park Elementary,32161 Dormick Ave,,Abbotsford,V2T 1J6,49.044578,-122.332581,604-864-5437,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,Y,N,2025/04/02,,N,Y,N
 1977,Licensed Group,The Patch Kids Place Inc.,5370 248 St,,Aldergrove,V4W 1A7,49.09979,-122.535445,604-626-4547,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/19,,N,Y,N
@@ -1980,7 +1980,7 @@
 1979,Licensed Family,All Star's Licensed Family Child Care,5483 Mackie St,,Vancouver,V5Y 3H1,49.236198,-123.109679,604-445-5415,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/19,,N,Y,N
 1980,Licensed Group,Little Willows Whonnock,28209 96 Ave,,Maple Ridge,V2W 1L4,49.178526,-122.440489,604-462-0786,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,Y,Y,2025/03/31,,N,Y,N
 1981,Licensed Group,Fine Art Montessori Childcare Centre Inc. (Famc),105-6488 Garden City Rd,,Richmond,V6Y 4M2,49.165841,-123.124535,604-304-6150,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/22,,N,Y,Y
-1982,Licensed Family,Cormorant Crew Daycare,212 Cormorant Rd,,Prince Rupert,V8J 4E8,54.310013,-130.302265,778-645-4546,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/11,,N,Y,N
+1982,Licensed Family,Cormorant Crew Daycare,212 Cormorant Rd,,Prince Rupert,V8J 4E8,54.310013,-130.302265,778-645-4546,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 1983,Licensed Family,Chelle's Cove Childcare,18967 59 Ave,,Surrey,V3S 7R8,49.109858,-122.698112,778-240-0445,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/09,,N,Y,N
 1984,Licensed Group,Mossy Branches Inc,310 Queen St,,Hope,V0X 1L0,49.382521,-121.443885,778-318-6000,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/16,,N,Y,N
 1985,Licensed Family,Sweet Pea's Daycare,3441 Eton Cres,,Abbotsford,V2S 4W1,49.064392,-122.267694,604-961-9606,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/28,,N,Y,N
@@ -2107,7 +2107,7 @@
 2106,Licensed Family,Wild Woods Playschool,2091 Noel Ave,,Comox,V9M 1Z1,49.682342,-124.938872,250-888-3894,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,N,N,N,N,N,N,2025/04/07,,N,N,N
 2107,Licensed Family,Lisa's Daycare,3-12267 190 St,,Pitt Meadows,V3Y 2N9,49.225608,-122.695289,604-306-2385,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/29,,N,N,N
 2108,Licensed Group,Braefoot Childcare Program,1440 Harrop Rd,,Victoria,V8P 2S6,48.47016,-123.345322,250-721-2244,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/04/02,,N,Y,N
-2109,Licensed Family,Ladner Grown Daycare,6307 Crescent Pl,,Delta,V4K 4V2,49.094094,-123.048677,778-317-0457,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/07,,N,Y,N
+2109,Licensed Family,Ladner Grown Daycare,6307 Crescent Pl,,Delta,V4K 4V2,49.094094,-123.048677,778-317-0457,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 2110,Licensed Group,Beacon Nature Club - Pexsisen,3100 Constellation Ave,,Langford,V9B 0V2,48.448813,-123.542169,250-415-9986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 2111,Licensed Group,Union Gospel Mission Child Care Centre,616 Cordova St E,,Vancouver,V6A 1L9,49.281869,-123.091,604-428-2936,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/04/02,,N,N,Y
 2112,Licensed Group,Union Gospel Mission Child Care Centre,616 Cordova St E,,Vancouver,V6A 1L9,49.281869,-123.091,604-428-2936,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/04/02,,N,N,Y
@@ -2159,7 +2159,7 @@
 2158,Licensed Family,Little Tots Childcare,7312 Aldeen Rd,,Prince George,V2N 5P8,53.854196,-122.806052,778-823-1716,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/11,,N,Y,N
 2159,Licensed Group,Wibble Wobble Childcare - Clearbrook,2137 Beaver St,,Abbotsford,V2T 3C7,49.040722,-122.329506,778-955-3030,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/31,,N,Y,N
 2160,Licensed Group,Cherry Blossom Childcare,140 Oswego St,,Victoria,V8V 2B1,48.416926,-123.379701,250-588-3147,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/11,,N,Y,N
-2161,Licensed Family,Love Bugs Childcare Centre,3775 Carrall Rd,,West Kelowna,V4T 2C6,49.827801,-119.609279,604-328-0125,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/25,,N,N,N
+2161,Licensed Family,Love Bugs Childcare Centre,3775 Carrall Rd,,West Kelowna,V4T 2C6,49.827801,-119.609279,604-328-0125,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/25,,N,Y,N
 2162,Licensed Family,Little Walkers Dayhome,1490 18Th St,,Invermere,V0A 1K4,50.499239,-116.041049,867-444-1365,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/16,,N,Y,N
 2163,Licensed Group,Amelia House Junior Playschool Society,7232 Lantzville Rd,,Lantzville,V0R 2H0,49.251931,-124.077381,250-667-5453,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,,N,Y,N
 2164,Licensed Family,Lil Monkeys Family Daycare,12505 Izon Crt,,Maple Ridge,V2X 9W6,49.229123,-122.597695,604-463-6691,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/18,,N,Y,N
@@ -2210,7 +2210,7 @@
 2209,Licensed Family,Granville House Montessori School,4355 Granville St,,Vancouver,V6H 3L6,49.24667,-123.139624,780-504-7860,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,Y
 2210,Licensed Family,On The Farm Child Care,8620 Island Hwy,,Black Creek,V9J 1H3,49.849332,-125.132929,778-922-3003,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,,N,Y,N
 2211,Licensed Family,Rising Journey Multi Age Daycare Inc,14210 61A Ave,,Surrey,V3X 0E5,49.114156,-122.828323,778-384-8750,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
-2212,Licensed Family,Step By Step,2165 Gibson Rd,,Port Alberni,V9Y 1A6,49.218985,-124.807111,778-421-0997,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,,N,Y,N
+2212,Licensed Family,Step By Step,2165 Gibson Rd,,Port Alberni,V9Y 1A6,49.218985,-124.807111,778-421-0997,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 2213,Licensed Group,Fern Valley,3881 Bruce St,,Port Alberni,V9Y 1J6,49.22774,-124.792194,250-720-3102,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,,N,Y,N
 2214,Licensed Group,Tiny Titans Childcare,3-7585 Main St W,,Radium Hot Springs,V0A 1M0,50.617807,-116.069958,250-341-5671,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 2215,Licensed Group,Little Moon Childcare Centre,100-3871 No. 3 Rd,,Richmond,V6X 2B8,49.185582,-123.136348,604-227-4166,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,,N,Y,Y
@@ -2267,7 +2267,7 @@
 2266,Licensed Family,Tiny Roots Daycare,9468 119 St,,Delta,V4C 6M6,49.174849,-122.894066,778-855-3736,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/04/02,,N,Y,N
 2267,Licensed Group,Kiddo House Montessori,6640 Blundell Rd,,Richmond,V7C 1H8,49.155166,-123.150501,778-886-0626,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,Y,N,2025/03/16,,N,Y,Y
 2268,Licensed Family,Bright Beginnings,8703 Lakeview Dr,,Coldstream,V1B 1W6,50.229946,-119.285134,250-550-6340,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/23,,N,Y,N
-2269,Licensed Family,Little Sunshine Day Care,2660 Albert Way,,Abbotsford,V2T 2R2,49.050629,-122.346389,604-584-3536,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/01,,N,Y,N
+2269,Licensed Family,Little Sunshine Day Care,2660 Albert Way,,Abbotsford,V2T 2R2,49.050629,-122.346389,604-584-3536,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 2270,Licensed Family,Riverside Family Childcare,80 River Terr,,Nanaimo,V9X 1E1,49.073707,-123.917163,250-802-2372,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
 2271,Licensed Group,Making Waves Childcare,119-12809 Kelly Ave,,Summerland,V0H 1Z2,49.600205,-119.68003,250-328-4083,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/16,,N,Y,N
 2272,Licensed Family,Polly's Playhouse,9625 Sixth St,,Sidney,V8L 2W1,48.645059,-123.401173,250-652-5872,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
@@ -2420,7 +2420,7 @@
 2419,Licensed Group,Charlie Lake Elementary Little Lakers Clubhouse,12655 Charlie Lake Frontage Rd,,Charlie Lake,V0C 1H0,56.272872,-120.951608,250-262-6090,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/02,,N,Y,N
 2420,Licensed Group,Discovery Elementary School Out Of School Care,2204 Mckean Rd,,Shawnigan Lake,V0R 2W0,48.652652,-123.651806,250-710-1837,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/03/14,,N,Y,N
 2421,Licensed Group,Kids View Studio,4610 Northlawn Dr,,Burnaby,V5C 3S1,49.271544,-122.997524,604-629-3555,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,,N,Y,N
-2422,Licensed Family,Strawberry Lane Family Childcare,4697 Strawberry Lane,,Kamloops,V2H 1L6,50.800563,-120.313184,780-394-1329,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
+2422,Licensed Family,Strawberry Lane Family Childcare,4697 Strawberry Lane,,Kamloops,V2H 1L6,50.800563,-120.313184,780-394-1329,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 2423,Licensed Group,Ocean Grove Elementary,3773 Mclelan Rd,,Campbell River,V9H 1K2,49.941209,-125.194432,250-830-2308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 2424,Licensed Group,Georgia Park Elementary,678 Hudson Rd,,Campbell River,V9H 1T4,49.963883,-125.229085,250-830-2308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 2425,Licensed Group,Ripple Rock Elementary,2001 Cheviot Rd,,Campbell River,V9H 1R4,50.022938,-125.274224,250-830-2308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
@@ -2431,7 +2431,7 @@
 2430,Licensed Group,Garderie Le Tournesol,801 54Th Ave E,,Vancouver,V5X 1L8,49.220967,-123.08798,604-736-5056,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,N,N,N,Y,N,Y,2025/04/07,,N,Y,N
 2431,Licensed Family,Seven Tiny Toes Childcare,4427 Wheeler Rd,,Prince George,V2N 5H4,53.870409,-122.783673,778-675-9893,https://www.seventinytoes.com,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,,N,Y,N
 2432,Licensed Group,Angels Playhouse Daycare Society (Sherban Ct),5798 Sherban Crt,,Burnaby,V5B 4P2,49.268617,-122.979782,604-809-3868,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/03/15,,N,Y,N
-2433,Licensed Group,Mama Bear's After School Care,1222 Dog Creek Rd,,Williams Lake,V2G 3G9,52.099864,-122.123447,250-267-2012,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,Y,2025/03/21,,N,Y,N
+2433,Licensed Group,Mama Bear's After School Care,1222 Dog Creek Rd,,Williams Lake,V2G 3G9,52.099864,-122.123447,250-267-2012,,,Y,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,N,N,Not offered,Extra fee,N,N,N,N,N,N,Y,N,N,N,Y,2025/03/21,,N,Y,N
 2434,Licensed Group,Crescendo Childcare Centre,4663 Hastings St,,Burnaby,V5C 2K6,49.281261,-122.99809,604-808-7623,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/19,,N,Y,N
 2435,Licensed Group,Blooming Butterflies,628 Sun Valley Dr,,Kamloops,V2B 6S4,50.773855,-120.33389,250-572-6853,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,Y,Y,2025/03/15,,N,Y,N
 2436,Licensed Group,Tee Pee Tots Daycare,1930 Fairview Rd,,Cawston,V0X 1C2,49.187191,-119.736068,250-499-5528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
@@ -2666,7 +2666,7 @@
 2665,Licensed Family,2 Sisters Childcare Centre,6065 146 St,,Surrey,V3S 3A1,49.112885,-122.817932,604-724-7673,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,,N,Y,N
 2666,Licensed Group,Kidspace Learning Centres Saanichton Ltd.,7925 East Saanich Rd,,Saanichton,V8M 1T4,48.597687,-123.416434,604-380-4060,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,,N,Y,N
 2667,Licensed Family,Munchkins Family Daycare,5494 Lehman St,,Prince George,V2K 4P2,53.978214,-122.776308,250-640-4070,,,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
-2668,Licensed Group,Blossoms@Bellevue Academy,2893 Marine Dr,,West Vancouver,V7V 1M1,49.33797,-123.193784,778-288-0052,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/04/02,,N,Y,N
+2668,Licensed Group,Blossoms@Bellevue Academy,2893 Marine Dr,,West Vancouver,V7V 1M1,49.33797,-123.193784,778-288-0052,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/04/12,,N,Y,N
 2669,Licensed Group,Quesnel Pre-K,288 Flamingo St,,Quesnel,V2J 1M3,52.976892,-122.523172,250-983-6778,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/03,,N,Y,N
 2670,Licensed Group,Tweedsmuir After School Studio,1714 8Th Ave,,New Westminster,V3M 2S7,49.205455,-122.942284,604-517-6398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 2671,Licensed Group,South Delta Wee Childcare Inc,4750 57 St,,Delta,V4K 3C9,49.088571,-123.06415,778-995-5985,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/16,,N,Y,N
@@ -2890,7 +2890,7 @@
 2889,Licensed Family,Sunview Early Learning Centre,2058 Sunview Dr,,West Kelowna,V1Z 3X6,49.879991,-119.562425,250-299-4587,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,,N,Y,N
 2890,Licensed Group,Kidsrus Early Learning Center Munroe,7728 Munroe Cres,,Vancouver,V5S 3J9,49.214452,-123.040132,604-767-0439,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/08,,N,Y,N
 2891,Licensed Group,The Big Playhouse Ontario,7721 Ontario St,,Vancouver,V5X 3C6,49.214834,-123.106755,604-690-0439,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
-2892,Licensed Family,Littleversity Daycare,2936 Wickham Dr,,Coquitlam,V3C 4R9,49.263693,-122.80139,778-238-6729,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,,N,Y,N
+2892,Licensed Family,Littleversity Daycare,2936 Wickham Dr,,Coquitlam,V3C 4R9,49.263693,-122.80139,778-238-6729,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 2893,Licensed Family,Precious Childhood Daycare,10145 158 St,,Surrey,V4N 4V8,49.186892,-122.784372,604-720-3666,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/04/08,,N,Y,N
 2894,Licensed Group,Little Seeds Early Learning Centre Inc.,201 Old Merrit Rd,,Princeton,V0X 1W0,49.46806,-120.48889,250-273-0432,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/03,,N,Y,N
 2895,Licensed Group,View Royal Childcare @ Strathmore,2773 Strathmore Road,,Langford,V9B 3X4,48.450549,-123.503027,236-470-5202,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/03,,N,Y,N
@@ -2939,7 +2939,7 @@
 2938,Licensed Family,Little Desert Dinos Early Learning Centre,225 Cypress Ave,,Kamloops,V2B 1H5,50.68912,-120.34836,778-257-9604,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/29,,N,Y,N
 2939,Licensed Family,Bouncing Bubbles Childcare Centre,9218 212A St,,Langely,V1M 2B9,49.16977,-122.63352,604-910-9558,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/28,,N,Y,N
 2940,Licensed Group,Blossom Buddies Daycare,8069 203 St,,Langley,V2Y 3W8,49.14939,-122.66075,778-996-5244,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/31,,N,Y,N
-2941,Licensed Family,Fern Flower - Nature School,3827 Charlton Dr,,Qualicum Beach,V9K 1Z3,49.41848,-124.64514,250-299-2054,https://fernflowernatureschool.net/,,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,Y,Y,Y,Y,N,N,2025/04/06,,N,Y,N
+2941,Licensed Family,Fern Flower - Nature School,3827 Charlton Dr,,Qualicum Beach,V9K 1Z3,49.41848,-124.64514,250-299-2054,https://fernflowernatureschool.net/,,Y,N,N,N,N,N,Y,Y,N,Y,Y,N,N,N,N,N,N,Not offered,Not offered,N,N,N,N,N,Y,Y,Y,Y,N,Y,2025/04/12,,N,Y,N
 2942,Licensed Group,Le Jardin De Basile,6326 Norwest Bay Rd,,Sechelt,V7Z 0M5,49.473235,-123.792346,604-212-2047,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,,N,Y,N
 2943,Licensed Group,Abc Academy - Children's Learning Center Ltd - Burnaby,3830 Sunset St,,Burnaby,V5G 1T3,49.249642,-123.019081,604-317-9040,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/30,,N,Y,N
 2944,Licensed Group,Spare Time Fun Centre,1338 W. 67Th Avenue,,Vancouver,V6P 2T4,49.210237,-123.136351,604-261-6612,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/04/02,,N,Y,N
@@ -2956,7 +2956,7 @@
 2955,Licensed Family,Little Flower Daycare,2486 Highlands Dr,,Blind Bay,V0E 1H0,50.86288,-119.383432,604-466-8915,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/03/16,,N,Y,N
 2956,Licensed Group,Renfrew Park Community Centre Out Of School Care,2929 22Nd Ave E,,Vancouver,V5M 2Y3,49.252423,-123.042961,604-654-0793,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/08,,N,Y,N
 2957,Licensed Group,Acre Wood Daycare And Learning Inc.,108 - 2360 Beacon Ave,,Sidney,V8L 1X3,48.649584,-123.401167,613-252-4833,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,,N,Y,N
-2958,Licensed Group,Jasmine Early Learning,4456 Lakeshore Rd,,Kelowna,V1W 1W8,49.821687,-119.490613,780-340-5805,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/13,,N,Y,N
+2958,Licensed Group,Jasmine Early Learning,4456 Lakeshore Rd,,Kelowna,V1W 1W8,49.821687,-119.490613,780-340-5805,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/04/12,,N,Y,N
 2959,Licensed Group,Ilm - Cedar Sprouts,1791 Woobank Rd,,Nanaimo,V9X 1G8,49.108442,-123.850706,250-585-7898,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/14,,N,Y,N
 2960,Licensed Group,Dino Multi-Age Daycare,3106 Fisher Crt,,Coquitlam,V3E 2R8,49.295663,-122.783124,778-834-9771,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/03,,N,Y,N
 2961,Licensed Group,Where The Wild Things Grow,1305 Thalia Pl,,Nanaimo,V9R 7E1,49.160361,-123.976667,613-282-1080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
@@ -3043,7 +3043,7 @@
 3042,Licensed Family,West Arden Childcare Centre,963 Webb Rd,,Courtenay,V9N 9V3,49.672927,-125.024946,250-897-1424,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/03/25,,N,Y,N
 3043,Licensed Family,My Forest Childcare,9007 96A Ave,,Fort St. John,V1J 5G1,56.242925,-120.829342,306-216-0263,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/11,,N,Y,N
 3044,Licensed Family,Summer Joy Child-Care,3322 Lealand Crt,,Burnaby,V5A 3B6,49.253858,-122.930496,604-230-4674,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,,N,Y,N
-3045,Licensed Family,Possibilities Child Care Center,2242 Shannon Ridge Dr,,West Kelowna,V4T 1S9,49.855224,-119.609308,250-768-3841,,,Y,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,Included in fee,Not offered,N,N,N,N,N,Y,Y,Y,N,N,N,2025/03/03,,N,Y,N
+3045,Licensed Family,Possibilities Child Care Center,2242 Shannon Ridge Dr,,West Kelowna,V4T 1S9,49.855224,-119.609308,250-768-3841,,,Y,N,N,N,N,N,Y,Y,N,N,N,N,N,N,N,N,N,Included in fee,Not offered,N,N,N,N,N,Y,Y,N,Y,N,N,2025/04/12,,N,Y,N
 3046,Licensed Family,Blue House Family Childcare,38039-B Fifth Ave,,Squamish,V8B 0B4,49.700704,-123.157948,778-886-4094,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/20,,N,Y,N
 3047,Licensed Family,Kidzz Early Learning Center-Kelc,454 Eldorado Rd,,Kelowna,V1W 1G8,49.821974,-119.497101,778-215-8940,,,Y,N,N,N,N,N,Y,Y,N,N,Y,N,N,N,N,N,N,Included in fee,Not offered,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/15,,N,Y,N
 3048,Licensed Group,Little Munchkins Main St,476 Main St,,mcbride,V0J 2E0,53.302026,-120.164417,250-306-7186,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/16,,N,Y,N
@@ -3134,7 +3134,7 @@
 3133,Licensed Group,Bright Light Learning Centre,8383 140 St,,Surrey,V3W 5K9,49.155196,-122.834927,778-318-6486,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/04/09,,N,Y,N
 3134,Licensed Group,Green Valley Sunshine Kids,7332 Grand St,,Mission,V2V 3S1,49.135011,-122.309167,778-347-4242,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,Y,Y,2025/04/11,,N,Y,N
 3135,Licensed Group,The Northern Cubs,720 4Th Ave,,Fort St. James,V0J 1P0,54.447686,-124.256213,204-358-0205,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,N,2025/03/20,,N,Y,N
-3136,Licensed Family,Lena's Daycare,1858 Ingledew St,,Prince George,V2L 1K8,53.906726,-122.740603,250-613-7318,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,Y,2025/03/14,,N,Y,N
+3136,Licensed Family,Lena's Daycare,1858 Ingledew St,,Prince George,V2L 1K8,53.906726,-122.740603,250-613-7318,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,,N,Y,N
 3137,Licensed Family,Little Hearts Family Childcare,309-1616 Columbia St,,Vancouver,V5Y 0B7,49.271271,-123.108579,236-888-9431,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/27,,N,Y,N
 3138,Licensed Family,Bright Early Learning Academy,46340 Strathcona Rd,,Chilliwack,V2P 3T3,49.186547,-121.942533,778-704-8822,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,Y,N,Y,2025/03/17,,N,Y,N
 3139,Licensed Group,Shine & Grow Learning Centre,359 23Rd St E,,North Vancouver,V7M 2B6,49.329875,-123.063331,604-347-6444,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/17,,N,Y,Y
@@ -3441,7 +3441,7 @@
 3440,Licensed Group,Wecare - Vista View,5043 Vista View Cres,,Nanaimo,V9V 1L6,49.237281,-123.987437,236-788-4868,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/04/09,,N,N,N
 3441,Licensed Group,Lni Childcare Learning Centre,9220 Sitka Pl,,Chilliwack,V2P 0H8,49.169614,-121.922455,604-446-7721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
 3442,Licensed Group,Burnaby-South Childcare Centre,7225 Gilley Ave,,Burnaby,V5J 4W9,49.218307,-122.972458,604-808-7623,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
-3443,Licensed Group,The Growing Grove Childcare,3685 Napier St,,Vancouver,V5K 2Y1,49.275188,-123.024373,672-999-4826,,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Extra fee,Extra fee,N,N,N,N,N,Y,Y,Y,N,N,N,2025/04/10,,N,Y,N
+3443,Licensed Group,The Growing Grove Childcare,3685 Napier St,,Vancouver,V5K 2Y1,49.275188,-123.024373,672-355-3685,,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Included in fee,Extra fee,N,N,N,N,N,Y,Y,Y,N,N,N,2025/04/10,,N,Y,N
 3444,Licensed Group,Brickwater Early Learning,116-22633 Selkirk Ave,,Maple Ridge,V2X 1C7,49.218061,-122.595252,604-720-4809,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 3445,Licensed Group,Tanpopo Child Care Inc.,2-2105 Scarboro Ave,,Vancouver,V5P 2L2,49.21384,-123.063698,236-480-0043,,,Y,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,Y,Not offered,Not offered,N,N,N,N,N,Y,N,Y,N,N,N,2025/04/09,,N,Y,N
 3446,Licensed Group,Academics Prekindergarten Yvr,400- 3600 Lysander Ln,,Richmond,V7B 1C3,49.189597,-123.141669,604-861-9074,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,Y,2025/04/09,,N,Y,N
@@ -3531,7 +3531,7 @@
 3530,Licensed Group,Kid'n Around Childrens Centre,20997 40 Ave,,Langley,V3A 8N9,49.075221,-122.641978,604-533-3757,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/04/03,http://www.healthspace.ca/fha/childcare,N,Y,N
 3531,Licensed Family,Julie & Friends Family Child Care,755 Adiron Ave,,Coquitlam,V3J 4K1,49.267639,-122.878963,604-328-5257,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 3532,Licensed Group,Baby Bumble Bee Day Care,8260 Sierpina Place,,Richmond,V7A 4N8,49.145078,-123.12836,604-272-3203,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,Y,N,N,2025/03/15,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
-3533,Licensed Group,Brightpath Port Coquitlam North,3610 Hastings St,,Port Coquitlam,V3B 4N6,49.277514,-122.780866,604-785-9439,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+3533,Licensed Group,Brightpath Port Coquitlam North,3610 Hastings St,,Port Coquitlam,V3B 4N6,49.277514,-122.780866,604-785-9439,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
 3534,Licensed Group,Sugar Fountain Day Care,7846 143 St,,Surrey,V3W 9W3,49.144747,-122.827113,604-502-7846,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 3535,Licensed Group,Bella Balloon Childcare Center (Under 36 Months),515 Windsor Rd W,,North Vancouver,V7N 2N7,49.338087,-123.082873,604-354-2019,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/04,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 3536,Licensed Family,Little Roos Family Daycare,6392 Oldfield Rd,,Saanichton,V8M 1X8,48.555825,-123.417736,250-213-7067,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,https://www.healthspace.ca/clients/viha/viha_website.nsf/CCFL-Main?OpenView,N,Y,N
@@ -4104,7 +4104,7 @@
 4103,Licensed Group,Watson Road Licensed Care,475 Yates Rd,,Kelowna,V1V 1R3,49.912658,-119.449375,250-762-4495,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/03,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 4104,Licensed Family,Huckleberries Childcare Centre,2745 Mount Seymour Pky,,North Vancouver,V7H 1E8,49.315522,-122.998216,604-250-7198,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/25,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4105,Licensed Group,Lexie's Little Bears' Child Care Inc.,1931 Millstream Rd,,Victoria,V9B 6E2,48.483636,-123.508805,250-590-3603,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
-4106,Licensed Group,Brightpath West Kelowna,3660 Brown Rd,,Westbank,V4T 1P7,49.830582,-119.628919,250-452-6866,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+4106,Licensed Group,Brightpath West Kelowna,3660 Brown Rd,,Westbank,V4T 1P7,49.830582,-119.628919,250-452-6866,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
 4107,Licensed Group,Happy May Child Care Centre,8660 Garden City Rd,,Richmond,V6Y 2P5,49.149388,-123.12479,604-218-6581,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,N,2025/03/31,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4108,Licensed Group,Windmill Children's House Infant/Toddler,9500 Alberta Rd,,Richmond,V6Y 1T6,49.165427,-123.11878,604-266-3111,,,Y,N,N,N,N,N,Y,N,N,N,N,Y,N,Y,N,N,N,Extra fee,Not offered,N,N,N,N,Y,Y,Y,Y,N,N,N,2025/04/07,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4109,Licensed Family,Peek-A-Boo Daycare,3449 Webber Rd,,Westbank,V4T 1H4,49.837943,-119.652973,778-363-6334,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/17,https://hedgehogportal.interiorhealth.ca/ChildCare/Map,N,Y,N
@@ -4363,7 +4363,7 @@
 4362,Licensed Group,Little Birds Child Care Centre,14750 108 Ave,,Surrey,V3R 1V8,49.198552,-122.81368,778-394-3210,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/25,http://www.healthspace.ca/fha/childcare,N,Y,N
 4363,Licensed Group,Agassiz Christian Preschool,7571 Morrow Rd,,Agassiz,V0M 1A2,49.236275,-121.750301,604-796-9310,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,Y,N,2025/04/01,http://www.healthspace.ca/fha/childcare,N,Y,N
 4364,Licensed Family,Tiny Bubbles,2576 Jeanine Dr,,Victoria,V9B 4X9,48.459346,-123.48685,250-661-1520,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/18,,N,Y,N
-4365,Licensed Group,Les Petits Du Pacifique,5538 Shorncliffe Ave,,Sechelt,V0N 3A0,49.473342,-123.763801,604-741-5852,,,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,Extra fee,Extra fee,N,N,N,N,N,N,N,N,Y,N,N,2025/03/04,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
+4365,Licensed Group,Les Petits Du Pacifique,5538 Shorncliffe Ave,,Sechelt,V0N 3A0,49.473342,-123.763801,604-741-5852,,,Y,N,N,N,N,N,N,Y,N,N,N,N,N,N,N,N,N,Extra fee,Extra fee,N,N,N,N,N,N,N,N,Y,N,N,2025/04/12,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4366,Licensed Group,Lil Bloomers Childcare Centre,195 Windsor Rd E,,North Vancouver,V7N 1J9,49.337978,-123.069024,604-987-7673,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,Y,N,N,Y,2025/03/18,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4367,Licensed Group,Reach For The Stars Montessori,3440 Boundary Rd,,Burnaby,V5M 4A5,49.25376,-123.023111,604-688-7827,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
 4368,Licensed Group,Mountain View Childcare,2725 Lonsdale Ave,,North Vancouver,V7N 3J2,49.334652,-123.072123,604-723-1494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,N,N
@@ -4843,7 +4843,7 @@
 4842,Licensed Group,Sunshine Children's Centre - Campus Ii,11916 222 St,,Maple Ridge,V2X 5V6,49.218866,-122.606731,604-580-2060,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/28,http://www.healthspace.ca/fha/childcare,N,Y,N
 4843,Licensed Group,Little Legacies - Mcgirr,6199 Mcgirr Rd,,Nanaimo,V9V 1C7,49.24031,-124.032907,250-667-2882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
 4844,Licensed Group,Little House Child Care,3849 Parker St,,Burnaby,V5C 3B5,49.275981,-123.020265,778-319-5951,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/26,http://www.healthspace.ca/fha/childcare,N,Y,N
-4845,Licensed Group,Brightpath Clayton Hills,7239 192 St,,Surrey,V3S 8E1,49.134108,-122.691135,778-571-4734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,Y,N
+4845,Licensed Group,Brightpath Clayton Hills,7239 192 St,,Surrey,V3S 8E1,49.134108,-122.691135,778-571-4734,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/04/12,http://www.healthspace.ca/fha/childcare,N,Y,N
 4846,Licensed Group,Little Footprints Daycare (72Nd),7233 122 Ave,,Surrey,V3W 5J2,49.135092,-122.88504,604-328-2091,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/13,http://www.healthspace.ca/fha/childcare,N,Y,N
 4847,Licensed Group,Stella Childcare Centre,563 23Rd St W,,North Vancouver,V7M 2C1,49.330124,-123.087342,604-986-0126,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/22,https://inspections.vcha.ca/ChildCare/Table,N,Y,N
 4848,Licensed Group,Cefa Panorama,5446 152 St,,Surrey,V3S 5J9,49.10123,-122.800527,778-241-7917,,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,,,N,N,N,N,N,N,N,N,N,N,N,2025/03/15,http://www.healthspace.ca/fha/childcare,N,Y,N
